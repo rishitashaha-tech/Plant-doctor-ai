@@ -1,0 +1,7 @@
+.venv/
+PlantVillage/
+evaluation_results/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.DS_Store
